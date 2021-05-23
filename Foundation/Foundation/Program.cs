@@ -1,5 +1,7 @@
 ﻿using Foundation.Advanced_Topics;
 using Foundation.Advanced_Topics.Delegates;
+using Foundation.Advanced_Topics.LINQ;
+using System.Linq;
 using System;
 
 namespace Foundation
@@ -8,7 +10,6 @@ namespace Foundation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
             //Generics
             //var numbers = new GenericList<int>();
@@ -18,13 +19,14 @@ namespace Foundation
             //books.Add("A tring");
 
             // Delegates
-            var processor = new PhotoProcessor();
-            var filters = new PhotoFilters();
-            PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
-            filterHandler += filters.ApplyContrast; // Easily adding additional filter
-            filterHandler += RemoveRedEyeFilter;
+            //var processor = new PhotoProcessor();
+            //var filters = new PhotoFilters();
+            //PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            //filterHandler += filters.ApplyContrast; // Easily adding additional filter
+            //filterHandler += RemoveRedEyeFilter;
 
-            processor.Process("photo.jpg", filterHandler);
+            //processor.Process("photo.jpg", filterHandler);
+
         }
 
         // Custom filter created for delegate
