@@ -1,0 +1,13 @@
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.exe
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.deps.json
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.runtimeconfig.json
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.runtimeconfig.dev.json
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.dll
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\bin\Debug\netcoreapp3.1\Foundation.pdb
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.csprojAssemblyReference.cache
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.AssemblyInfoInputs.cache
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.AssemblyInfo.cs
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.csproj.CoreCompileInputs.cache
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.dll
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.pdb
+C:\Users\Kristofer\Development\CSharp-Guide\Foundation\Foundation\obj\Debug\netcoreapp3.1\Foundation.genruntimeconfig.cache
