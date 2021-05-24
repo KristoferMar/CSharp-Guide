@@ -13,18 +13,18 @@ namespace Foundation.Basic_Topics.Interfaces
             _shippingCalculator = shippingCalculator;
         }
 
-        public void Process(ShipmentOrder order)
-        {
-            if (order.IsShipped)
-            {
-                throw InvalidOperationException("This order is already processed");
-            }
+        //public void Process(ShipmentOrder order)
+        //{
+        //    if (order.IsShipped)
+        //    {
+        //        throw InvalidOperationException("This order is already processed");
+        //    }
 
-            order.Shipment = new Shipment
-            {
-                Cost = _shippingCalculator.CalculateShipping(order),
-                ShippingDate = DataTime.Today.AddDays(1);
-            }
-        }
+        //    order.Shipment = new Shipment
+        //    {
+        //        Cost = _shippingCalculator.CalculateShipping(order),
+        //        ShippingDate = DataTime.Today.AddDays(1);
+        //    }
+        //}
     }
 }

@@ -8,9 +8,9 @@ namespace Foundation.UnitTests
     [TestClass]
     public class OrderProcessorTests
     {
-        // METHODNAME_CONDITION_EXPECTATION
-        [TestMethod]
-        [ExpectedException(typeof(InvalidOperationException))]
+        //METHODNAME_CONDITION_EXPECTATION
+       [TestMethod]
+       [ExpectedException(typeof(InvalidOperationException))]
         public void Process_OrderIsAlreadyShipped_ThrowsAnException()
         {
             var orderProcessor = new OrderProcessor(new FakeShippingCalculator());

@@ -6,7 +6,7 @@ namespace Foundation.Basic_Topics.Class_Association.Composition
 {
     class Program
     {
-        static void Main(string [] args)
+        static void NonMain(string [] args)
         {
             var dbMigrator = new DBMigrator(new Logger());
 

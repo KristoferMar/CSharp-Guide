@@ -6,11 +6,11 @@ namespace Foundation.Basic_Topics.Interfaces
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NonMain(string[] args)
         {
             var orderProcessor = new OrderProcessor(new ShippingCalculator());
             var order = new ShipmentOrder { DatePlaced = DateTime.Now, TotalPrice = 100f };
-            orderProcessor.Process(order);
+            //orderProcessor.Process(order);
         }
     }
 }
