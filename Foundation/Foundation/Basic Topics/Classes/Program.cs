@@ -6,7 +6,7 @@ namespace Foundation.Basic_Topics.Classes
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NonMain(string[] args)
         {
             var person = new Person();
             var p = Person.Parse("John2");

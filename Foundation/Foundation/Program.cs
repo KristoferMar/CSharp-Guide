@@ -8,7 +8,7 @@ namespace Foundation
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NonMain(string[] args)
         {
 
             //Generics

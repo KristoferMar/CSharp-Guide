@@ -6,7 +6,7 @@ namespace Foundation.Basic_Topics.Methods
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NonMain(string[] args)
         {
             var point = new Point(10, 20);
             point.Move(new Point(40, 60));
