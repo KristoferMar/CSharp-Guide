@@ -9,3 +9,16 @@
 - Inheritance
 - Composition
 - Favour Composition over Inhertitance
+
+
+<h2>Inheritance and Composition</h2>
+- Inheritance (Is-a) relationship
+- Composition (Has-a) relationship
+
+Inheritance:
+- Pros: Code re-use, easier to understand
+- Cons: Tightly coupled, fragile, van be abused
+
+Composition
+- pros: Code re-use, great flexibility, loose coupling
+- Cons: A little harder to understand
