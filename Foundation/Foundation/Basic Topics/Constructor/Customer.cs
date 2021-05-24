@@ -27,6 +27,5 @@ namespace Foundation.Basic_Topics.Constructor
         {
             this.Name = name;
         }
-
     }
 }
